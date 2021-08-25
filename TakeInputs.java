@@ -1,4 +1,5 @@
 import java.util.Scanner;
+// The module is used to import the scanner function, to scan the console for user input
 
 public class TakeInputs {
     public static void main(String[] args) {
