@@ -12,7 +12,7 @@ public class JavaStdin_and_Stdout_2 {
         // Inorder to compensate this, an additional extra new line reader is added in between.
         String third = input.nextLine();
         System.out.printf("String: %s\n",third);
-        System.out.printf("Double: %f\n",second);
+        System.out.printf("Double: %s\n",String.format("%s",second));
         System.out.printf("Int: %d\n",first);
         input.close();
     }
