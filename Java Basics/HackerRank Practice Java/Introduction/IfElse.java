@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class java_ifelse {
+public class IfElse {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int a = input.nextInt();
