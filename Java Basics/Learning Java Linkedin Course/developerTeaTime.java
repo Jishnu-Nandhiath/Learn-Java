@@ -8,7 +8,7 @@ public class developerTeaTime {
         Scanner input = new Scanner(System.in);
         System.out.println("Shall we Proceed boss?");
         input.next();
-//Does not need to assign to a variable, because we're just checking whether the user entered anything in the console. 
+        //Does not need to assign to a variable, because we're just checking whether the user entered anything in the console.
         System.out.println("Yaay its the developer tea time, I'm going to hibernate boss!!!");
         input.close();
     }

@@ -1,8 +1,12 @@
+package Challenges;
+
+//import Challenges.ChoiceChallenge;
 import java.util.Scanner;
 
 public class DebugChallenge {
 
     public static void main(String[] args) {
+        ChoiceChallenge.hello();
 
         System.out.println("Let's calculate the area of a triangle");
 
