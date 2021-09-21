@@ -13,6 +13,6 @@ public class SimpleAdderMain {
 
         CalculatorUtility adder = new CalculatorUtility(firstUserInput,secondUserInput);
 
-        System.out.println(adder.adder());
+        System.out.printf("The result is : %f", adder.adder());
     }
 }
